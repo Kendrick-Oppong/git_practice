@@ -1,0 +1,12 @@
+feat
+fix
+refactor
+style
+perf
+doc
+chore 
+
+type(file name): commit message
+
+
+feat(header): implement dark mode
